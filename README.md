@@ -249,4 +249,25 @@ Refer to `requirements.txt` for the complete list.
 - Multi-threaded data ingestion pipelines.
 
 ---
+## Outputs:-
+Transformed Data Obtained from the pyspark:
+1. Correlation and Distribution of order flow:
+   ![Screenshot 2024-11-19 144051](https://github.com/user-attachments/assets/c02a3a65-d313-4090-b86e-c0a47ed34113)
+2.Rolling Average:
+  ![Screenshot 2024-11-19 144004](https://github.com/user-attachments/assets/437f31ce-4c01-45ee-b78a-f20c65a50169)
+3.Event Based Metrics:
+  ![Screenshot 2024-11-19 143914](https://github.com/user-attachments/assets/81c2a8dd-331e-4468-b1d8-5cf7688990c5)
+4.Anomalies:
+  ![Screenshot 2024-11-19 143830](https://github.com/user-attachments/assets/66689747-c94e-4c1c-bad1-518cde84c8da)
+5.Weighted Average Prices:
+  ![Screenshot 2024-11-19 143732](https://github.com/user-attachments/assets/1f8cde17-1be9-4ff6-9fe4-0ab9b1385b62)
+
+
+
+
+
+
+
+
+
 
