@@ -284,7 +284,13 @@ Dashboard:
 ![Screenshot 2024-11-19 144125](https://github.com/user-attachments/assets/cc37d9a4-eaf5-4482-a82b-1adbccde8e24)
 
 
+output of ML Algorithm:
 
+![heatmap](https://github.com/user-attachments/assets/6bae5a4f-880e-4753-a42c-38cde201670f)
+
+![anomalies detected](https://github.com/user-attachments/assets/3ef741fd-1eee-49dc-878b-77a70bdd9da2)
+
+![clustering](https://github.com/user-attachments/assets/ca34857a-ab66-4281-9832-775c4bd29d49)
 
 
 
