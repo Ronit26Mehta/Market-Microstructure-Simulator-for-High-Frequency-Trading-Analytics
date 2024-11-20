@@ -253,6 +253,7 @@ Refer to `requirements.txt` for the complete list.
 Transformed Data Obtained from the pyspark:
 
 1. Correlation and Distribution of order flow:
+   
    ![Screenshot 2024-11-19 144051](https://github.com/user-attachments/assets/c02a3a65-d313-4090-b86e-c0a47ed34113)
    
 2.Rolling Average:
@@ -271,6 +272,16 @@ Transformed Data Obtained from the pyspark:
 
   ![Screenshot 2024-11-19 143732](https://github.com/user-attachments/assets/1f8cde17-1be9-4ff6-9fe4-0ab9b1385b62)
 
+
+Dashboard:
+
+![Screenshot 2024-11-19 144346](https://github.com/user-attachments/assets/19a3d520-b0bb-466c-9467-668d61244479)
+
+![Screenshot 2024-11-19 144304](https://github.com/user-attachments/assets/25e46979-795d-4aab-a573-1a48decbbb2d)
+
+![Screenshot 2024-11-19 144239](https://github.com/user-attachments/assets/bf2dc8cf-f7dc-4806-8505-3805f56fb833)
+
+![Screenshot 2024-11-19 144125](https://github.com/user-attachments/assets/cc37d9a4-eaf5-4482-a82b-1adbccde8e24)
 
 
 
